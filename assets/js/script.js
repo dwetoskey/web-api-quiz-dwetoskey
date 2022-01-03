@@ -20,7 +20,7 @@
 
     let i = 0;
 
-
+//question storage array
 
 var questionsArray = [
 {
